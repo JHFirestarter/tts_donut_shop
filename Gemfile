@@ -1,7 +1,5 @@
 source 'https://rubygems.org'
 
-gem 'tzinfo-data'
-
 gem 'starter_generators'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.4'
